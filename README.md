@@ -10,5 +10,3 @@
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ric.sgomes/)](https://www.instagram.com/ric.sgomes/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-gomess/)](https://www.linkedin.com/in/ricardo-gomess/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ric.sgomes/)](https://www.instagram.com/ric.sgomes/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-gomess/)](https://www.linkedin.com/in/ricardo-gomess/)
