@@ -1,10 +1,8 @@
 # Bem Vindo ao meu repositório! 
 
-### Meu nome é Ricardo e sou desenvolvedor Mobile, focado em Flutter/Dart. 
+### Meu nome é Ricardo Gomes e sou desenvolvedor Mobile formado em Ciências da Computação, focado principalmente em Flutter/Dart. 
 
 :house_with_garden: Sou de São Paulo-SP, Brasil.
-
-:books: Formado em Ciências da Computação em Dez/2020.
 
 :outbox_tray: A procura de novas oportunidades.
 
