@@ -9,6 +9,4 @@
 :speaking_head: Inglês técnico
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ric.sgomes/)](https://www.instagram.com/ric.sgomes/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-gomess/)](https://www.linkedin.com/in/ricardo-gomess/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&email=ricardo.gsilva@outlook.com)](ricardo.gsilva@outlook.com)
-
-<a href="mailto:ricardo.gsilva@outlook.com?"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ric.sgomes/)](https://www.instagram.com/ric.sgomes/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-gomess/)](https://www.linkedin.com/in/ricardo-gomess/) <a href="mailto:ricardo.gsilva@outlook.com?"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
